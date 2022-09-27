@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Karina</h1>
 <h3 align="center">A passionate full stack web developer from Puerto Rico</h3>
 
+<p align="left"> <a href="https://twitter.com/momentofeureka" target="blank"><img src="https://img.shields.io/twitter/follow/momentofeureka?logo=twitter&style=for-the-badge" alt="momentofeureka" /></a> </p>
+
 - 🔭 I’m currently working on [Doko Nani Tabeyouka?](https://karina-42.github.io/nani-doko-tabeyou/)
 
 - 🌱 I’m currently learning **MVC, React, Mongoose**
