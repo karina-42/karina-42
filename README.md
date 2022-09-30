@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on [Doko Nani Tabeyouka?](https://doko-nani-tabeyouka.herokuapp.com/)
 
 - 🌱 I’m currently learning **MVC, React, Mongoose**
-    -Check out my [Badly Drawn Lecture] on MVC(https://docs.google.com/presentation/d/1JsJo5CAV5nNfOg2fD1A66d20xU5kYmPq73qdOqzYcTY/edit?usp=sharing)
+    - Check out my [Badly Drawn Lecture on MVC](https://docs.google.com/presentation/d/1JsJo5CAV5nNfOg2fD1A66d20xU5kYmPq73qdOqzYcTY/edit?usp=sharing) for a basic introduction
 
 - 📝 I write articles on [https://dev.to/karina42/](https://dev.to/karina42/)
 
