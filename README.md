@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/momentofeureka" target="blank"><img src="https://img.shields.io/twitter/follow/momentofeureka?logo=twitter&style=for-the-badge" alt="momentofeureka" /></a> </p>
 
--📂 My portfolio is [karina.dev](https://karina-dev.netlify.app/)
+- 📂 My portfolio is [karina.dev](https://karina-dev.netlify.app/)
 
 - 🔭 I’m currently working on [Where do you want to eat?](https://where-do-you-want-to-eat.cyclic.app/)
 
