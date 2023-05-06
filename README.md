@@ -3,14 +3,16 @@
 
 <p align="left"> <a href="https://twitter.com/momentofeureka" target="blank"><img src="https://img.shields.io/twitter/follow/momentofeureka?logo=twitter&style=for-the-badge" alt="momentofeureka" /></a> </p>
 
-- 🔭 I’m currently working on [Doko Nani Tabeyouka?](https://doko-nani-tabeyouka.herokuapp.com/)
+-📂 My portfolio is [karina.dev](https://karina-dev.netlify.app/)
+
+- 🔭 I’m currently working on [Where do you want to eat?](https://where-do-you-want-to-eat.cyclic.app/)
 
 - 🌱 I’m currently learning **MVC, React, Mongoose**
     - Check out my [Badly Drawn Lecture on MVC](https://docs.google.com/presentation/d/1JsJo5CAV5nNfOg2fD1A66d20xU5kYmPq73qdOqzYcTY/edit?usp=sharing) for a basic introduction
 
 - 📝 I write articles on [https://dev.to/karina42/](https://dev.to/karina42/)
 
-- 📫 How to reach me **angela.vegega@gmail.com**
+- 📫 How to reach me **karina.vegega@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
